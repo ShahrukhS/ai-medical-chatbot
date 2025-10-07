@@ -1,6 +1,6 @@
 # 🧠 Medical Chatbot with Traditional RAG Pipeline
 
-This repository contains a **Medical Chatbot AI Agent**, designed to **extract and summarize relevant information** from the GALE Encyclopedia of Medicine to **provide accurate, contextual responses** to user queries.
+This repository contains a **Medical AI Chatbot**, designed to **extract and summarize relevant information** from the GALE Encyclopedia of Medicine to **provide accurate, contextual responses** to user queries.
 
 ---
 
