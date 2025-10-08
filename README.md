@@ -1,14 +1,14 @@
-# 🧠 Medical Chatbot with Traditional RAG Pipeline
+# Medical Chatbot with Traditional RAG Pipeline
 
 This repository contains a **Medical AI Chatbot**, designed to **extract and summarize relevant information** from the GALE Encyclopedia of Medicine to **provide accurate, contextual responses** to user queries.
 
 ---
 
-## ⚙️ Frameworks & Models Used
+## Frameworks & Models Used
 
-- 🧩 **LangChain** – for structured LLM workflow
-- 🤖 **Gemini 2.5 Flash** – as the core LLM
-- 💬 **Streamlit** – for the interactive chatbot frontend
+- **LangChain** – for structured LLM workflow
+- **Gemini 2.5 Flash** – as the core LLM
+- **Streamlit** – for the interactive chatbot frontend
 
 ---
 
